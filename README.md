@@ -1,4 +1,6 @@
 # Self-Balancing-Robot-Simulation
+![SBR_8-Shape](https://user-images.githubusercontent.com/88198964/127717390-5d413aef-fe3b-4031-b74a-a5e53549d86b.gif)
+
 This repository contains simulation for Self Balancing Robot. LQR Control for Balancing the robot in vertical position. Feedback Linearization control for Trajectory Tracking
 Steps for Run the Simulation
 1. firstly, Run lqr_control_3DOF.m file in MATLAB to calculate gains & initilize the parameters of system
