@@ -3,7 +3,9 @@ This repository contains simulation for Self Balancing Robot. LQR Control for Ba
 Steps for Run the Simulation
 1. firstly, Run lqr_control_3DOF.m file in MATLAB to calculate gains & initilize the parameters of system
 2. To simulate Feedback linearization control for trajectory tracking of Self balancing Control open FDL_Trajectary_Tracking_SBR.slx in Simulink
+
 ![tempsnip](https://user-images.githubusercontent.com/88198964/127717279-8748becb-79af-4e5f-a763-a157682965a1.png)
+
 3. To change the Trajectory types Click on block showing in above Image.
 4. Type Number between 1 to 4 such as
 
