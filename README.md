@@ -21,3 +21,5 @@ Steps for Run the Simulation
    
 5. Run the simulation by click on RUN Icon in Simulink
 6. To Visualizing the 3D Animation,Double click on VR Sink block and run the simulation in VRML
+
+Video: https://www.youtube.com/watch?v=gvfqVTKq9_w
