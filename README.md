@@ -1,6 +1,6 @@
 # Self-Balancing-Robot-Simulation
+![Self_Balancing_Robot](https://user-images.githubusercontent.com/88198964/128762117-d227a156-91b4-4186-8ab5-f131df760192.gif)
 ![SBR_8-Shape](https://user-images.githubusercontent.com/88198964/127717390-5d413aef-fe3b-4031-b74a-a5e53549d86b.gif)
-![SBR_circular](https://user-images.githubusercontent.com/88198964/127718935-b4c9e5e4-9dad-45e8-aaf3-ea6adc1e84d9.gif)
 
 This repository contains simulation for Self Balancing Robot. LQR Control for Balancing the robot in vertical position. Feedback Linearization control for Trajectory Tracking
 Steps for Run the Simulation
